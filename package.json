@@ -1,0 +1,24 @@
+{
+  "name": "ejercicio_templates_node_express",
+  "version": "1.0.0",
+  "description": "En este ejercicio aplicaremos todo lo que hemos visto anteriormente:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaGuapo/ejercicio_templates_node_express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaGuapo/ejercicio_templates_node_express/issues"
+  },
+  "homepage": "https://github.com/IsaGuapo/ejercicio_templates_node_express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}

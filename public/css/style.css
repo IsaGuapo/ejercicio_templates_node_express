@@ -1,0 +1,13 @@
+body {
+    background-color: aquamarine;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;   
+}
+
+ul.hover{
+    color: azure;
+}
